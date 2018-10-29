@@ -1,0 +1,20 @@
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\bin\Debug\Priya_project_A.exe.config
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\bin\Debug\Priya_project_A.exe
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\bin\Debug\Priya_project_A.pdb
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.csprojAssemblyReference.cache
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.Form1.resources
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.Properties.Resources.resources
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.csproj.GenerateResource.cache
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.csproj.CoreCompileInputs.cache
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.exe
+C:\Users\ameya\source\repos\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.pdb
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\bin\Debug\Priya_project_A.exe.config
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\bin\Debug\Priya_project_A.exe
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\bin\Debug\Priya_project_A.pdb
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.Form1.resources
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.Properties.Resources.resources
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.exe
+C:\Users\HP\Desktop\New folder (4)\VisualStudio-master\Priya_project_A\Priya_project_A\obj\Debug\Priya_project_A.pdb
